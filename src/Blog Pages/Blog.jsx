@@ -12,7 +12,7 @@ function Blog() {
     let blog = data.find((blogs) => blogs.id === parseInt(id));
 
     setBlogData(blog);
-  }, []);
+  });
 
   return (
     <div>
@@ -30,7 +30,7 @@ function Blog() {
         </div>
         <div className="flex gap-4">
             <div className="w-12 h-12 overflow-hidden rounded-full">
-              <img src={blogData.authorAvatar} alt="author profile" />
+              <img className="h-full w-full object-cover" src={blogData.authorAvatar} alt="author profile" />
             </div>
            <div className="flex flex-col leading-[1] justify-center">
            <h1 className="text-primary font-bold">{blogData.authorName}</h1>
