@@ -9,7 +9,7 @@ function BlogsComponents({blog}) {
             <h1 className='text-primary font-bold'>{blog.title}</h1>
             <p className='bg-primary w-fit text-sm font-semibold py-1 px-4 text-white rounded-full mt-3 text-bold'>{blog.category}</p>
             <p className='text-sm my-3'>{blog.description}</p>
-            <NavLink to={`/Blog/:${blog.id}`} className='bg-primary rounded p-1 text-white mt-auto'>...See Blog</NavLink>
+            <NavLink to={`/Blog/${blog.id}`} className='bg-primary rounded p-1 text-white mt-auto'>...See Blog</NavLink>
     
         </div>
     </div>
