@@ -1,11 +1,12 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 function Navbar() {
   return (
    <>
    <nav className="flex justify-between items-centere h-[7vh]  px-10 lg:px-44">
   <div className="flex items-center py-22">
-    <h1 className="text-primary text-4xl italic font-bold">MUSIE</h1>
+    <h1 className="text-primary text-4xl italic font-bold"><NavLink to='/'>MUSIE</NavLink></h1>
   </div>
   <div className="">
   <div className="relative mt-4 flex flex-wrap items-stretch">
