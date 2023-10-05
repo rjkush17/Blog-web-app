@@ -12,7 +12,7 @@ function Blog() {
     let blog = data.find((blogs) => blogs.id === parseInt(id));
 
     setBlogData(blog);
-  });
+  },[id]);
 
   return (
     <div>

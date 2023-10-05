@@ -22,9 +22,7 @@ function Footer() {
               <Button label={"Sumbit"} />
             </form>
           </div>
-          <div className=""></div>
-          <div className=""></div>
-          <div className=""></div>
+
         </div>
 
         <div className="flex-1 h-full">
@@ -38,7 +36,7 @@ function Footer() {
         <div className="flex-1 h-full">
           <h1 className="text-primary text-2xl font-bold mb-5">Categories</h1>
           <p className="mb-5">Entertaiment</p>
-          <p className="mb-5">Whatsapp</p>
+          <p className="mb-5">Sport</p>
           <p className="mb-5">International</p>
           <p className="mb-5">Tickeking</p>
         </div>
