@@ -6,9 +6,9 @@ export const data = [
     description:
       "In the world of web development, Cascading Style Sheets (CSS) play a crucial role in shaping the visual design of websites. Here, we'll explore seven CSS tools that every developer should consider using to enhance their web projects.",
     authorName: "John Doe",
-    authorAvatar: "https://i.ibb.co/rsGm99B/1.jpg",
+    authorAvatar: "https://i.ibb.co/MC2j1x1/1.jpg",
     createdAt: "June 03, 2021",
-    cover: "https://i.ibb.co/B4SXHCH/1.jpg",
+    cover: "https://i.ibb.co/VWG4zv5/1.jpg",
     content: {
       p1: "CSS (Cascading Style Sheets) is an essential component of web development that determines and controls the visual style of a website. It allows developers to customize the appearance of web pages, enhance user experience, and ensure consistency across multiple platforms and devices. To streamline CSS development, there are several CSS tools available that can significantly improve efficiency and productivity. In this essay, we will explore seven CSS tools that developers should be using The first CSS tool that programmers should have in their toolkit is a CSS preprocessor, such as Sass or Less. These preprocessors extend the capabilities of CSS with additional features like variables, nesting, and functions. They provide a more organized and modular approach to writing CSS, making it easier to maintain and update stylesheets. Moreover, preprocessors offer the option to split CSS into multiple files and compile them into a single optimized file, reducing page load times. Next on the list is a CSS framework like Bootstrap or Foundation. These frameworks offer a collection of pre-written CSS and HTML templates, components, and JavaScript plugins, which help expedite web development. They provide a solid foundation for building responsive and mobile-friendly websites while maintaining consistency and accessibility. CSS frameworks also come with built-in grid systems that simplify layout design and improve responsiveness across different screen sizes.",
 
@@ -25,9 +25,9 @@ export const data = [
     description:
       "Milan, Italy, is not just a fashion capital; it's a city filled with rich culture, history, and stunning landmarks. In this blog post, we'll take you on a journey through Milan's top places that showcase the city's true essence.",
     authorName: "Emily Smith",
-    authorAvatar: "https://i.ibb.co/BCPynsG/2.jpg",
+    authorAvatar: "https://i.ibb.co/fn7CBXx/2.jpg",
     createdAt: "July 15, 2022",
-    cover: "https://i.ibb.co/0ZnyPgX/2.jpg",
+    cover: "https://i.ibb.co/S6tmKpL/2.jpg",
     content: {
       p1: "Milan, the bustling city in northern Italy, is undoubtedly known for its fashion, business, and design. However, beyond the glitz and glamour, Milan holds a plethora of hidden gems that illuminate the true beauty of the city. From historical landmarks to hidden courtyards, Milan has much to offer to those willing to venture off the beaten path. One of the must-visit places in Milan is the enchanting neighborhood of Brera. Located in the city center, Brera is a labyrinth of narrow cobbled streets, lined with unique boutiques, quaint cafes, and art galleries. This neighborhood is a haven for art enthusiasts, as it houses the renowned Pinacoteca di Brera. Here, one can feast their eyes on masterpieces by Italian masters such as Caravaggio and Raphael. Beyond the art museum, Brera offers a wonderful ambiance, perfect for strolling around, immersing oneself in the artistic atmosphere, and enjoying a cup of coffee in one of the local cafes. Another hidden gem in Milan is the Navigli district—a network of canals that were once used for transportation. Navigli is a vibrant and trendy neighborhood, brimming with bars, restaurants, and quirky shops. This area truly comes to life in the evening, as locals and tourists alike gather along the canals to enjoy an aperitivo, a Milanese tradition of pre-dinner drinks and snacks. The scenic canal-side walkways and picturesque bridges make Navigli a charming place to explore and soak in the local atmosphere.",
 
@@ -44,9 +44,9 @@ export const data = [
     description:
       "The advent of the internet has revolutionized the way we shop. In this blog post, we'll explore the world of online shopping and how it offers a convenient and efficient alternative to traditional mall shopping.",
     authorName: "Sarah Johnson",
-    authorAvatar: "https://i.ibb.co/kGV4hq9/3.jpg",
+    authorAvatar: "https://i.ibb.co/HCvHCP6/3.jpg",
     createdAt: "September 20, 2022",
-    cover: "https://i.ibb.co/wYN4jRB/3.jpg",
+    cover: "https://i.ibb.co/Xx2S2RC/3.jpg",
     content: {
       p1: "In recent years, online shopping has become increasingly popular as an alternative to traditional shopping in the mall. With the advancements in technology and the widespread availability of the internet, consumers now have the convenience of purchasing products and services right from the comfort of their own homes. This essay will explore the benefits and drawbacks of online shopping, and ultimately argue that it is a viable alternative to shopping in the mall. One of the primary advantages of online shopping is the convenience it offers. Gone are the days of battling the crowds and searching for a parking spot at the mall. With online shopping, consumers can browse through a vast range of products and make purchases with just a few clicks. This convenience is particularly appealing to individuals with busy schedules or physical limitations, who may find it challenging to dedicate time or energy to traditional shopping.",
 
@@ -63,9 +63,9 @@ export const data = [
     description:
       "Embark on a thrilling journey with us as we explore the exciting world of adventure travel. In this blog post, we'll take you on a virtual tour of adrenaline-pumping activities and breathtaking destinations that await the adventurous souls.",
     authorName: "Alex Turner",
-    authorAvatar: "https://i.ibb.co/zSNHPx6/4.jpg",
+    authorAvatar: "https://i.ibb.co/vdfb87K/4.jpg",
     createdAt: "October 10, 2022",
-    cover: "https://i.ibb.co/0VH1M5L/4.jpg",
+    cover: "https://i.ibb.co/Kr6NL4N/4.jpg",
     content: {
       p1: "Life is an incredible journey filled with wondrous opportunities and thrilling experiences. One way to enrich our existence and discover our true potential is through embracing adventures. Adventures serve as a gateway to self-discovery, personal growth, and numerous unforgettable memories. They challenge us to break out of our comfort zones, confront our fears, and explore the unknown. Adventure is not merely an activity or a trip; it is a mindset, a way of living, and an essential element that adds excitement and meaning to our lives. Adventure encourages us to step outside of our daily routines and embark on extraordinary experiences that captivate our hearts and souls. Whether it is climbing a mountain, diving into the depths of the ocean, traversing through dense forests, or skydiving from a plane, adventures push us to new limits, both physically and mentally. These experiences allow us to connect with nature, feel a sense of freedom, and experience the thrill that comes with conquering the unknown.",
 
@@ -82,9 +82,9 @@ export const data = [
     description:
       "Get ready to tantalize your taste buds with our mouthwatering recipe for Loaded BBQ Baked Potatoes. In this blog post, we'll walk you through the steps to create this savory and satisfying dish that's perfect for a hearty meal.",
     authorName: "Jessica Anderson",
-    authorAvatar: "https://i.ibb.co/fnFyz2C/5.jpg",
+    authorAvatar: "https://i.ibb.co/R02rG97/5.jpg",
     createdAt: "November 5, 2022",
-    cover: "https://i.ibb.co/VYmR45w/5.jpg",
+    cover: "https://i.ibb.co/g4MjxBL/5.jpg",
     content: {
       p1: "Who can resist the irresistible combination of a classic baked potato, rich and flavorful barbeque sauce, and a medley of tantalizing toppings? Loaded BBQ baked potatoes are a culinary masterpiece that bring together the best of both worlds – the comforting goodness of a traditional baked potato and the finger-licking goodness of barbeque. This mouthwatering dish is a crowd-pleaser that has become a staple at backyard gatherings, picnics, and potlucks. In this essay, we will explore the key components of this delectable creation, the magical harmony it creates, and the reasons why it has become such a beloved meal. At the heart of a loaded BBQ baked potato lies the humble potato. This versatile tuber is transformed into a culinary masterpiece through the process of baking. The potato skin crisps up to perfection, creating a crunchy outer layer that gives way to a fluffy, creamy interior. Whether it is a Russet, Yukon gold, or a sweet potato, each variety lends its unique characteristics to the dish, providing a slightly different flavor and texture.Barbeque sauce is the star condiment in this recipe, infusing the potato with its smoky, tangy, and slightly sweet flavors. An array of store-bought or homemade barbeque sauces allows for customization, ensuring that each loaded BBQ baked potato has a unique taste. The combination of flavors from ingredients like tomato paste, brown sugar, vinegar, Worcestershire sauce, and various spices creates a savory sauce that generously coats the potato, enhancing its natural earthiness.",
 
@@ -101,9 +101,9 @@ export const data = [
     description:
       "Discover the hidden gems of coastal destinations in this blog post. We'll take you on a journey beyond the beach, where you'll find unique experiences and breathtaking sights that go beyond the sun and sand.",
     authorName: "Sophia Roberts",
-    authorAvatar: "https://i.ibb.co/1QbV8sN/6.jpg",
+    authorAvatar: "https://i.ibb.co/vq2rm1w/6.jpg",
     createdAt: "December 15, 2022",
-    cover: "https://i.ibb.co/xGF4C3k/6.jpg",
+    cover: "https://i.ibb.co/FbpR9PV/6.jpg",
     content: {
       p1: "The beach has long been a favored destination for people seeking relaxation, sun, and sand. However, there is a world beyond the beach that offers a multitude of experiences and adventures waiting to be explored. From bustling cities to serene mountains, there are countless reasons to venture beyond the coastal shores. Exploring a bustling city is an ideal way to immerse oneself in the vibrant local culture and experience the unique sights and sounds it has to offer. Cities like New York, Paris, or Tokyo are known for their bustling streets, iconic landmarks, and diverse cuisines. One can wander through the busy marketplaces, visit famous museums and art galleries, and indulge in authentic cuisine from around the world. The city offers a perfect blend of history, modernity, and diversity, allowing visitors to take in a range of experiences that can be both eye-opening and inspiring.Beyond the beach, there are also majestic mountains that offer breathtaking views and a chance to reconnect with nature. Hiking through lush trails, conquering towering peaks, and camping under the stars are just a few of the experiences one can have in the mountains. Nature lovers can witness the beauty of cascading waterfalls, admire the colorful flora and fauna, and take time to pause and reflect in the serenity of the surroundings. Mountains provide a sense of peace and tranquility that is often elusive in our fast-paced, urban lives. ",
 
@@ -120,9 +120,9 @@ export const data = [
     description:
       "Dive into the world of art and explore how perception shapes our understanding of it. In this blog post, we'll delve into the fascinating relationship between art, interpretation, and the human mind.",
     authorName: "Eleanor Mitchell",
-    authorAvatar: "https://i.ibb.co/sJpw4dH/7.jpg",
+    authorAvatar: "https://i.ibb.co/VCMmWz5/7.jpg",
     createdAt: "January 25, 2023",
-    cover: "https://i.ibb.co/LvgrKm5/7.jpg",
+    cover: "https://i.ibb.co/pnkmFxF/7.jpg",
     content: {
       p1: "Art is a unique form of human expression that has captivated and fascinated individuals for centuries. From the earliest cave paintings to the intricate masterpieces of the Renaissance, art has served as a medium through which people can communicate their thoughts, emotions, and beliefs. It allows individuals to express themselves in ways that words cannot, providing a visual representation of their inner world. One of the most remarkable aspects of art is its ability to transcend cultural and linguistic barriers. Regardless of one's background or origin, art has the power to resonate with individuals on a deep and profound level. A painting, a sculpture, or a performance can evoke emotions and provoke thoughts that are universal, allowing us to connect with a global community through shared experiences.Moreover, art has the power to challenge societal norms and provoke meaningful discussions. Throughout history, artists have often used their work as a means to question established beliefs, challenge authority, and inspire social change. From Picasso's provocative cubist paintings to Banksy's thought-provoking street art, art has served as a powerful tool for social commentary and criticism. It has the ability to challenge the status quo, push boundaries, and ignite conversations that can lead to positive transformations in society. ",
 
@@ -141,7 +141,7 @@ export const data = [
     authorName: "Michael Anderson",
     authorAvatar: "https://i.ibb.co/BCPynsG/2.jpg",
     createdAt: "February 10, 2023",
-    cover: "https://i.ibb.co/4Fr5Km5/8.jpg",
+    cover: "https://i.ibb.co/YRsR0RT/8.jpg",
     content: {
       p1: "Anime has become a cultural phenomenon, captivating audiences across the globe with its vibrant art, compelling stories, and unique character design. Standing tall among the vast landscape of Japanese animation is a series that has left an indelible mark on the genre – Dragon Ball. Created by Akira Toriyama, Dragon Ball is not only a lasting legacy in the world of anime, but it can rightfully be called the father of anime.First and foremost, Dragon Ball introduced groundbreaking storytelling that revolutionized anime. The story follows Goku, a young boy with extraordinary strength, as he embarks on a journey to find the mystical Dragon Balls. Along the way, Goku encounters a diverse array of characters, battles fierce enemies, and unlocks his hidden potential. The series combined elements of action, adventure, comedy, and drama, creating a perfect balance that captured the hearts of millions. Dragon Ball's narrative style served as a blueprint for future anime series, influencing the development of numerous storylines and character arcs that followed.Moreover, Dragon Ball introduced the concept of power levels, unleashing a wave of fascination with the idea of strength and power that anime has continuously explored over the years. The concept of power levels provided a unique dynamic to the series, allowing characters to push their physical limits and showcasing the true breadth of their abilities. In the world of Dragon Ball, power levels become a measure of one's skill, leading to epic battles and defining the iconic moments of the series. This concept not only captivated the audience but also became a fundamental element in many subsequent anime, infusing them with a sense of grandeur and excitement. ",
 
@@ -158,9 +158,9 @@ export const data = [
     description:
       "Experience the rich and diverse lifestyles of South Korea in this blog post. We'll take you on a virtual tour of South Korea's unique traditions, modern influences, and daily routines that shape the way of life in this captivating country.",
     authorName: "Hyejin Lee",
-    authorAvatar: "https://i.ibb.co/fnFyz2C/5.jpg",
+    authorAvatar: "https://i.ibb.co/vdfb87K/4.jpg",
     createdAt: "March 20, 2023",
-    cover: "https://i.ibb.co/bN1d3J4/9.jpg",
+    cover: "https://i.ibb.co/7Vt8FCK/9.jpg",
     content: {
       p1: "South Korea, officially known as the Republic of Korea, is a country located in East Asia. The country is renowned for its rich cultural heritage, advanced technology, and economic development. South Korea is also known for its unique and fascinating lifestyles that reflect a blend of traditional values and modern influences.One of the most notable aspects of life in South Korea is the strong emphasis on education and hard work. Education is highly valued in South Korean society, and students are encouraged to strive for academic excellence from a young age. The competition for admission to prestigious universities is fierce, and students often spend long hours studying and attending various extra-curricular activities. Additionally, South Koreans place great importance on professional success, and many individuals work long hours to climb the corporate ladder or establish successful businesses.Another aspect of lifestyle in South Korea is the deep-rooted respect for traditional customs and values. Traditional Korean etiquette, known as 'jeong,' emphasizes respect for elders, the importance of hierarchy, and the practice of common courtesy. This can be seen in various aspects of daily life, such as bowing when greeting someone, using formal language when speaking to elders or superiors, and adhering to strict societal norms. Despite the influence of Western culture, South Koreans continue to value and preserve their traditional customs. ",
       p2: "Food is an integral part of South Korean lifestyle and culture. Korean cuisine, known as 'hansik,' is renowned for its diverse flavors, vibrant colors, and healthy ingredients. Staples include rice, vegetables, meats, and an array of side dishes called banchan. Kimchi, a traditional fermented vegetable dish, is considered a national favorite and is often served with every meal. Dining in South Korea is a communal affair, and it is common for families and friends to gather around a table to share food and engage in conversation. Entertainment and pop culture also play a significant role in the lifestyles of South Koreans. The Korean Wave, often referred to as 'Hallyu,' has gained immense popularity across the globe. Korean dramas, music, and movies have captivated audiences worldwide due to their unique storytelling and high production quality. K-pop, in particular, has become a global phenomenon, with Korean boy bands and girl groups gaining massive followings. The popularity of K-pop has also contributed to the rise of Korean cosmetics and fashion trends, further shaping the lifestyles of South Koreans.",
@@ -175,9 +175,9 @@ export const data = [
     description:
       "Explore the dynamics of two prominent industries: Information Technology (IT) and Pharmaceuticals. In this blog post, we'll examine the key differences and similarities between these sectors that play pivotal roles in today's world.",
     authorName: "Daniel Mitchell",
-    authorAvatar: "https://i.ibb.co/sJpw4dH/7.jpg",
+    authorAvatar: "https://i.ibb.co/HCvHCP6/3.jpg",
     createdAt: "May 15, 2023",
-    cover: "https://i.ibb.co/qsFMwPG/10.jpg",
+    cover: "https://i.ibb.co/K9Kfxvb/10.jpg",
     content: {
       p1: "Information technology (IT) and the pharmaceutical industry (pharma) are two distinct fields with their own unique roles and contributions to society. Although seemingly different, these sectors have become increasingly intertwined in recent years, leveraging technological advancements to drive innovation and improve patient care. This essay will explore the key differences and similarities between IT and pharma, highlighting the critical importance of collaboration between these industries. First and foremost, the pharmaceutical industry primarily focuses on medical research, drug development, and the manufacturing of medications. It plays a crucial role in addressing public health challenges, finding cures for diseases, and improving overall patient well-being. On the other hand, information technology deals with the management, processing, and storage of data, as well as the development and implementation of innovative software solutions. IT plays a pivotal role in optimizing operational processes, enhancing data security, and ensuring seamless communication within and between organizations.Despite these differences, IT and pharma intersect in numerous areas, benefiting from each other's expertise. The use of technology has revolutionized the pharmaceutical industry, enabling advanced research and development techniques, streamlining clinical trials, and enhancing drug safety. Likewise, the pharmaceutical industry relies on IT for data analysis, electronic health records, patient monitoring systems, and supply chain management. ",
       p2: "One significant area where the collaboration between IT and pharma is evident is in the field of data analysis and artificial intelligence (AI). With the growing availability of health-related data, IT professionals contribute their skills in data mining and machine learning to extract valuable insights from this vast amount of information. Pharmaceutical companies can then leverage these insights to identify potential drug targets, optimize clinical trial design, and personalize treatment plans for patients. This partnership enhances the efficiency and efficacy of drug development and leads to better patient outcomes. Moreover, the advancement of telemedicine facilitated by IT has also had a profound impact on the pharmaceutical industry. Telemedicine allows healthcare providers to remotely diagnose and treat patients, reducing the need for physical visits and improving access to medical care, particularly in rural or underserved areas. Additionally, IT helps in optimizing pharmaceutical supply chains, ensuring timely delivery of medications to patients in need, and tackling issues such as counterfeiting and fraud.",
@@ -193,9 +193,9 @@ export const data = [
     description:
       "Explore the world of gaming laptops in this blog post. We'll dive into the diverse range of laptops designed for gamers, discussing their specifications, performance, and the gaming experience they offer.",
     authorName: "Chris Williams",
-    authorAvatar: "https://i.ibb.co/1QbV8sN/6.jpg",
+    authorAvatar: "https://i.ibb.co/vdfb87K/4.jpg",
     createdAt: "June 30, 2023",
-    cover: "https://i.ibb.co/C2PLyGV/11.jpg",
+    cover: "https://i.ibb.co/wRg0nmf/11.jpg",
     content: {
       p1: "In today's ever-evolving technological landscape, gaming has become an incredibly popular and widespread form of entertainment. With the rise of competitive eSports and the demand for high-quality graphics and performance, gaming laptops have become a game-changer for avid gamers. However, not all laptops are created equal when it comes to gaming capabilities. In this essay, we will explore different laptops designed specifically for gaming, highlighting their key features and benefits. One popular laptop brand that is renowned for its gaming capabilities is Alienware. Alienware laptops are known for their sleek designs and high-performance components. Equipped with powerful processors like Intel Core i9, AMD Ryzen, and NVIDIA GeForce graphics cards, these laptops can handle even the most demanding games with ease. Moreover, Alienware laptops are known for their exceptional cooling systems, ensuring that the laptop stays cool even during intense gaming sessions. The keyboards are also designed for gamers' comfort and feature customizable lighting options, allowing gamers to personalize their gaming experience. Overall, Alienware laptops are an excellent choice for gamers looking for high performance, stunning graphics, and a seamless gaming experience. ",
 
