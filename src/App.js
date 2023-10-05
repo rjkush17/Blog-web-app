@@ -3,6 +3,7 @@ import Hero from './Components/Hero';
 import {  Route, Routes } from "react-router-dom";
 import Blog from "./Blog Pages/Blog";
 import NotFoundPage from "./Components/NotFoundPage";
+import Footer from "./Components/Footer";
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
       <Route path='/blog/:id' element={<Blog/>}/>
       <Route path='/*' element={<NotFoundPage/>}/>
      </Routes>
-     {/* <BlogsList/> */}
+     <Footer/>
     </div>
     
   );

@@ -1,5 +1,5 @@
 import React from "react";
-import lightlogo from "../img/light-logo.png";
+// import lightlogo from "../img/light-logo.png";
 import Button from "./Button";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { RiTwitterXLine } from "react-icons/ri";
@@ -8,11 +8,10 @@ import { BiLogoTelegram } from "react-icons/bi";
 function Footer() {
   return (
     <>
-      {" "}
       <div className="bg-[#252424] font-roboto text-white flex px-12 pt-24 pb-12 border-b-4 border-zinc-500 mt-10">
         <div className="flex-none w-[30%] mr-40">
           <div className="flex flex-col gap-6">
-            <img className="h-[50px] w-fit" src={lightlogo} alt="" />
+          <h1 className="text-primary text-4xl italic font-bold">MUSIE..</h1>
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deserunt
               rem omnis, adipisci vitae impedit dolorum similique explicabo
