@@ -16,15 +16,15 @@ function Blog() {
 
   return (
     <div>
-      <div className="flex justify-between items-center px-28 mt-12">
+      <div className="flex justify-between items-center px-10  mt-12 lg:px-28">
         <NavLink to="/">
           <Button label={"Home"} />
         </NavLink>
         <Button label={"Subscribe NewsLatter"} />
       </div>
-      <div className="w-9/12 mx-auto mt-10 ">
-        <h1 className="text-center text-header text-primary font-bold ">{blogData.title}</h1>
-        <h3 className="text-normal font-semibold w-9/12 mx-auto mt-10">{blogData.description}</h3>
+      <div className="w-11/12 text-base mx-auto mt-10  sm:w-9/12">
+        <h1 className="text-3xl text-center text-header text-primary font-bold ">{blogData.title}</h1>
+        <h3 className="text-normal font-semibold  mx-auto mt-10 sm:w-9/12">{blogData.description}</h3>
         <div className="py-10 mx-auto w-11/12">
           <img src={blogData.cover} alt="1" />
         </div>

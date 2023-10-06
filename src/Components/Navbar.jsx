@@ -4,12 +4,12 @@ import { NavLink } from 'react-router-dom'
 function Navbar() {
   return (
    <>
-   <nav className="flex justify-between items-centere h-[7vh]  px-10 lg:px-44">
+   <nav className="flex justify-between items-centere h-[7vh] mt-4 bg-white  lg:px-44 ">
   <div className="flex items-center py-22">
     <h1 className="text-primary text-4xl italic font-bold"><NavLink to='/'>MUSIE</NavLink></h1>
   </div>
   <div className="">
-  <div className="relative mt-4 flex flex-wrap items-stretch">
+  <div className="relative  flex flex-wrap items-stretch">
     <input
       type="search"
       className="relative m-0 block  min-w-0 flex-auto rounded border border-solid border-neutral-300 bg-transparent bg-clip-padding px-3 py-[0.25rem] text-base font-normal leading-[1.6] text-neutral-700 outline-none transition duration-200 ease-in-out focus:z-[3] focus:border-primary focus:text-neutral-700 focus:shadow-[inset_0_0_0_1px_rgb(59,113,202)] focus:outline-none"
